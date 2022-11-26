@@ -1,4 +1,5 @@
 # <div align="center"> Ahmad Ghazzi </div>
+## <div align="center"><div style="width:100px"> ![This is a alt text.](/image.jpg "This is a sample image.")</div></div>
 <div align="center"> Tripoli-El Mina Near Shalabi Station </div>
 <div align="center"> 76401342 | aghazzi.1998@gmail.com </div>
 
