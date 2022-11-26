@@ -14,4 +14,4 @@
 ## Language
 * Arabic Language reading, writing, listening, and speaking
 * English Language reading, writing, listening, and speaking
-* 
+* French Language reading and listening
